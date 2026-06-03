@@ -82,7 +82,7 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 **Stack:** `Next.js` `TypeScript` `FastAPI` `LangGraph` `LLMs` `RAG`
 
-[View Repo →](https://github.com/Dhanushvardan/ag_based_chatbot_fastapi_nextjs)
+[View Repo →](https://github.com/Dhanushvardan/rag_based_chatbot_fastapi_nextjs)
 
 ---
 
