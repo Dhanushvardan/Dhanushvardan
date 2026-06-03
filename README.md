@@ -73,7 +73,7 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 **Stack:** `React` `FastAPI` `LangGraph` `Python` `Vector Embeddings` `LLMs`
 
-[View Repo →](https://github.com/Dhanushvardan/YOUR-REPO-NAME)
+[View Repo →](https://github.com/Dhanushvardan/resume_analyser_rag)
 
 ---
 
@@ -82,7 +82,7 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 **Stack:** `Next.js` `TypeScript` `FastAPI` `LangGraph` `LLMs` `RAG`
 
-[View Repo →](https://github.com/Dhanushvardan/YOUR-REPO-NAME)
+[View Repo →](https://github.com/Dhanushvardan/ag_based_chatbot_fastapi_nextjs)
 
 ---
 
@@ -91,7 +91,7 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 **Stack:** `WebRTC` `WAV2LIP` `Python` `Deep Learning`
 
-[View Repo →](https://github.com/Dhanushvardan/YOUR-REPO-NAME)
+[View Repo →](https://github.com/Dhanushvardan/Multilingual-Auto-dubbing-with-lip-sync-for-video-calls)
 
 ---
 
@@ -100,16 +100,16 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 **Stack:** `MongoDB` `Express` `React` `Node.js`
 
-[View Repo →](https://github.com/Dhanushvardan/YOUR-REPO-NAME)
+[View Repo →](https://github.com/Dhanushvardan/RentSetGO-)
 
 ---
 
-### 🤟 Tamil Sign Language Detection App
-> TensorFlow Lite ML model trained with AutoML Vision, deployed as a Kotlin Android app for real-time Tamil sign language detection. Showcased at SICCI event.
+### 🤟 Crypto Price Tracker & Visualization Platform
+> Developed a full-stack web application using React, Node.js, Express, and MySQL to track cryptocurrency prices, visualize historical trends, and manage user authentication with secure password hashing.
 
-**Stack:** `TensorFlow Lite` `AutoML Vision` `Kotlin` `Android`
+**Stack:** `React` `Nodejs` `Coingeeko-Crypto` `MySQL`
 
-[View Repo →](https://github.com/Dhanushvardan/YOUR-REPO-NAME)
+[View Repo →](https://github.com/Dhanushvardan/dbms_proj)
 
 ---
 
