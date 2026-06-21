@@ -109,12 +109,12 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 ---
 
-### 🤟 Crypto Price Tracker & Visualization Platform
-> Developed a full-stack web application using React, Node.js, Express, and MySQL to track cryptocurrency prices, visualize historical trends, and manage user authentication with secure password hashing.
+### 🤟  Spring Boot Microservices Intercommunication
+> Designed a multi-service Spring Boot system with Netflix Eureka for service discovery and a load-balanced RestTemplate for inter-service communication, with MongoDB-backed persistence for one service.
 
-**Stack:** `React` `Nodejs` `Coingeeko-Crypto` `MySQL`
+**Stack:** `Springboot` `MongoDB` `NetflixEurekaServer` `SpringCloud`
 
-[View Repo →](https://github.com/Dhanushvardan/dbms_proj)
+[View Repo →](https://github.com/Dhanushvardan/springboot_microservices_intercommunication)
 
 ---
 
