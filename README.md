@@ -56,6 +56,11 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=microgenetics&logoColor=white)
+![Eureka Server](https://img.shields.io/badge/Eureka%20Server-00A1E0?style=flat-square&logo=netflix&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 **Other**
 
