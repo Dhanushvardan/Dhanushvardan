@@ -100,12 +100,12 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 ---
 
-### 🚗 RentSetGo — Car Rental Platform
-> Full-stack MERN car rental web app with seamless booking, payment integration, and inventory management.
+### Software-vulnerability-analyzer
+> Developed a graph-based platform to track projects, dependencies, and CVEs, exposing Project→Library→Vulnerability chains via CognoDB. Implemented severity-weighted risk scoring, cross-project analytics, and interactive dependency graph visualization.
 
-**Stack:** `MongoDB` `Express` `React` `Node.js`
+**Stack:** `FastAPI` `CognoDB` `React` `Neo4j` `Cypher`
 
-[View Repo →](https://github.com/Dhanushvardan/RentSetGO-)
+[View Repo →](https://github.com/Dhanushvardan/software-vulnerability-analyzer)
 
 ---
 
