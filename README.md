@@ -100,7 +100,7 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 ---
 
-### Software-vulnerability-analyzer
+### Graph(Neo4j) based Software-vulnerability-analyzer
 > Developed a graph-based platform to track projects, dependencies, and CVEs, exposing Project→Library→Vulnerability chains via CognoDB. Implemented severity-weighted risk scoring, cross-project analytics, and interactive dependency graph visualization.
 
 **Stack:** `FastAPI` `CognoDB` `React` `Neo4j` `Cypher`
