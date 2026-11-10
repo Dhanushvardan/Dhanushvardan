@@ -91,12 +91,12 @@ I build **AI-powered full-stack products** — from RAG pipelines and agentic La
 
 ---
 
-### 🎙️ Multilingual Lip-Sync Dubbing for Video Calls
-> Real-time multilingual dubbing system integrated into a WebRTC video call interface. Uses the WAV2LIP deep learning model for accurate lip-sync — CV + NLP + real-time video in one system.
+### 🎙️ Android App (Kotlin, MVVM, Retrofit)
+> Built an Android app in Kotlin using MVVM, consuming REST APIs with Retrofit and exposing data through ViewModel and LiveData for lifecycle-aware, reactive UI updates, with View Binding for type-safe view access. Managed navigation and back-stack behavior using Activity launch modes and Intent flags to prevent duplicate screens, and persisted user data locally with SharedPreferences.
 
-**Stack:** `WebRTC` `WAV2LIP` `Python` `Deep Learning`
+**Stack:** `Kotlin` `MVVM` `Retrofit` `LiveData` `viewModel` `XML Layouts` `viewBindings`
 
-[View Repo →](https://github.com/Dhanushvardan/Multilingual-Auto-dubbing-with-lip-sync-for-video-calls)
+[View Repo →](https://github.com/Dhanushvardan/Kotlin_MVVM_Retrofit)
 
 ---
 
